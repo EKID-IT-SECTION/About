@@ -1,3 +1,46 @@
+# 🛠️ Kontributor
+
+Repositori ini merupakan hasil dari kolaborasi, pengelolaan legacy, dan semangat mentoring yang berkelanjutan. Berikut adalah individu-individu yang telah berkontribusi dalam pengembangan, dokumentasi, dan evolusi proyek ini.
+
+---
+
+## 👤 Taufiq (Pendiri & Arsitek Legacy)
+- Peran: Pencipta awal, pengelola sistem, dan mentor dokumentasi
+- Kontribusi:
+  - Merancang struktur folder modular dan panduan onboarding
+  - Memelihara sistem legacy (VB6, FoxPro, dBASE, SQL Server)
+  - Menulis panduan dwibahasa dan lembar contekan cetak
+  - Merancang ritual changelog puitis dan arsip mentoring
+- GitHub: [@firewallix](https://github.com/firewallix)
+
+---
+
+## 🧑‍🤝‍🧑 Kolaborator & Penerus
+
+| Nama           | Peran                     | Kontribusi                              |
+|----------------|---------------------------|------------------------------------------|
+| [Nama]         | Pengembang / Pemelihara   | [Ringkasan kontribusi]                   |
+| [Nama]         | Penerjemah / Dokumentator | [Ringkasan kontribusi]                   |
+| [Nama]         | QA / Penguji              | [Ringkasan kontribusi]                   |
+
+> *Akan diperbarui seiring bertambahnya kontributor baru.*
+
+---
+
+## 📝 Panduan Kontribusi
+
+Kami menyambut kolaborasi yang penuh hormat dan berorientasi legacy. Silakan merujuk ke `README.md` dan `CONTRIBUTING.md` untuk langkah onboarding, standar penulisan kode, dan ritual dokumentasi.
+
+---
+
+## 🕊️ Penutupan Legacy
+
+Layanan resmi Taufiq sebagai pengelola dan arsitek repositori ini berakhir pada **25 Mei 2027**. Kontribusinya — mencakup integrasi sistem legacy, dokumentasi dwibahasa, dan ritual mentoring — tetap tertanam dalam struktur dan semangat proyek ini.
+
+Pemelihara di masa depan diharapkan untuk menghormati fondasi ini dengan kejernihan, kebaikan hati, dan komitmen terhadap aksesibilitas yang berkelanjutan.
+
+---
+
 # 🛠️ Contributors
 
 This repository is the result of collaborative effort, legacy stewardship, and ongoing mentorship. Below are the individuals who have contributed to its development, documentation, and evolution.
